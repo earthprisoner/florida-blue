@@ -1,0 +1,72 @@
+{
+    "orderId": "order-test",
+    "pizzas": [
+        {
+            "price": {
+                "amount": "1425",
+                "currency": "EUR"
+            },
+            "toppings": [
+                {
+                    "name": "Extra cheese",
+                    "price": {
+                        "amount": "150",
+                        "currency": "EUR"
+                    }
+                },
+                {
+                    "name": "Garlic",
+                    "price": {
+                        "amount": "50",
+                        "currency": "EUR"
+                    }
+                },
+                {
+                    "name": "Mushrooms",
+                    "price": {
+                        "amount": "100",
+                        "currency": "EUR"
+                    }
+                },
+                {
+                    "name": "Ham",
+                    "price": {
+                        "amount": "75",
+                        "currency": "EUR"
+                    }
+                },
+                {
+                    "name": "Peppers",
+                    "price": {
+                        "amount": "50",
+                        "currency": "EUR"
+                    }
+                }
+            ],
+            "description": "Medium pizza, Thin crust, Tomato sauce, Cheese, Extra cheese, Garlic, Mushrooms, Ham, Peppers"
+        },
+        {
+            "price": {
+                "amount": "1450",
+                "currency": "EUR"
+            },
+            "toppings": [
+                {
+                    "name": "Extra cheese",
+                    "price": {
+                        "amount": "150",
+                        "currency": "EUR"
+                    }
+                },
+                {
+                    "name": "Pepperoni",
+                    "price": {
+                        "amount": "100",
+                        "currency": "EUR"
+                    }
+                }
+            ],
+            "description": "Large pizza, Thick crust, Tomato sauce, Cheese, Extra cheese, Pepperoni"
+        }
+    ]
+}

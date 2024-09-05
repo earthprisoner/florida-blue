@@ -1,0 +1,14 @@
+###> COMPOSER ###
+vendor/
+
+###> PHP-UNIT ###
+.phpunit
+.phpunit.result.cache
+
+###> PHPSTORM ###
+.idea/*
+
+###> friendsofphp/php-cs-fixer ###
+.php_cs.cache
+.php-cs-fixer.cache
+.php_cs

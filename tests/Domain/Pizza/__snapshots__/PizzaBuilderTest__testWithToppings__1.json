@@ -1,0 +1,58 @@
+{
+    "price": {
+        "amount": "1575",
+        "currency": "EUR"
+    },
+    "toppings": [
+        {
+            "name": "Extra cheese",
+            "price": {
+                "amount": "150",
+                "currency": "EUR"
+            }
+        },
+        {
+            "name": "Garlic",
+            "price": {
+                "amount": "50",
+                "currency": "EUR"
+            }
+        },
+        {
+            "name": "Ham",
+            "price": {
+                "amount": "75",
+                "currency": "EUR"
+            }
+        },
+        {
+            "name": "Mushrooms",
+            "price": {
+                "amount": "100",
+                "currency": "EUR"
+            }
+        },
+        {
+            "name": "Pepperoni",
+            "price": {
+                "amount": "100",
+                "currency": "EUR"
+            }
+        },
+        {
+            "name": "Peppers",
+            "price": {
+                "amount": "50",
+                "currency": "EUR"
+            }
+        },
+        {
+            "name": "Unions",
+            "price": {
+                "amount": "50",
+                "currency": "EUR"
+            }
+        }
+    ],
+    "description": "Medium pizza, Thin crust, Tomato sauce, Cheese, Extra cheese, Garlic, Ham, Mushrooms, Pepperoni, Peppers, Unions"
+}
